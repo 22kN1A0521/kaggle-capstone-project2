@@ -1,0 +1,182 @@
+{
+  "POS-9AD5C9B6": {
+    "position_id": "POS-9AD5C9B6",
+    "title": "Senior Software Engineer",
+    "department": "Engineering",
+    "location": "Remote",
+    "experience_level": "SENIOR",
+    "description": "We are looking for an experienced software engineer...",
+    "required_skills": [
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      }
+    ],
+    "preferred_skills": [
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      }
+    ],
+    "status": "OPEN",
+    "hiring_manager": "John Doe",
+    "salary_range": {
+      "min": 120000,
+      "max": 150000
+    },
+    "open_date": "2025-11-28",
+    "close_date": ""
+  },
+  "POS-30D260F1": {
+    "position_id": "POS-30D260F1",
+    "title": "Senior Software Engineer",
+    "department": "Engineering",
+    "location": "Remote",
+    "experience_level": "SENIOR",
+    "description": "We are looking for an experienced software engineer...",
+    "required_skills": [
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      }
+    ],
+    "preferred_skills": [
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      }
+    ],
+    "status": "OPEN",
+    "hiring_manager": "John Doe",
+    "salary_range": {
+      "min": 120000,
+      "max": 150000
+    },
+    "open_date": "2025-11-28",
+    "close_date": ""
+  },
+  "POS-ED7F3C39": {
+    "position_id": "POS-ED7F3C39",
+    "title": "Senior Software Engineer",
+    "department": "Engineering",
+    "location": "Remote",
+    "experience_level": "SENIOR",
+    "description": "We are looking for an experienced software engineer...",
+    "required_skills": [
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      }
+    ],
+    "preferred_skills": [
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      }
+    ],
+    "status": "OPEN",
+    "hiring_manager": "John Doe",
+    "salary_range": {
+      "min": 120000,
+      "max": 150000
+    },
+    "open_date": "2025-11-28",
+    "close_date": ""
+  },
+  "POS-6802E09C": {
+    "position_id": "POS-6802E09C",
+    "title": "Senior Software Engineer",
+    "department": "Engineering",
+    "location": "Remote",
+    "experience_level": "SENIOR",
+    "description": "We are looking for an experienced software engineer...",
+    "required_skills": [
+      {
+        "name": "Python",
+        "years_experience": 5,
+        "proficiency": 4
+      },
+      {
+        "name": "Django",
+        "years_experience": 3,
+        "proficiency": 4
+      },
+      {
+        "name": "REST APIs",
+        "years_experience": 3,
+        "proficiency": 4
+      }
+    ],
+    "preferred_skills": [
+      {
+        "name": "AWS",
+        "years_experience": 2,
+        "proficiency": 3
+      },
+      {
+        "name": "Docker",
+        "years_experience": 2,
+        "proficiency": 3
+      }
+    ],
+    "status": "OPEN",
+    "hiring_manager": "John Doe",
+    "salary_range": {
+      "min": 120000,
+      "max": 150000
+    },
+    "open_date": "2025-11-28",
+    "close_date": ""
+  }
+}

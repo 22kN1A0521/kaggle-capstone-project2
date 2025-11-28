@@ -1,0 +1,267 @@
+{
+  "CAN-4957411D": {
+    "candidate_id": "CAN-4957411D",
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "email": "jane.smith@example.com",
+    "phone": "555-123-4567",
+    "status": "INTERVIEW_SCHEDULED",
+    "application_date": "2025-11-28",
+    "resume_path": "",
+    "notes": [],
+    "skills": [
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      }
+    ],
+    "education": [
+      {
+        "degree": "",
+        "field": "",
+        "institution": "",
+        "year_completed": 0,
+        "gpa": null
+      }
+    ],
+    "experience": [
+      {
+        "title": "",
+        "company": "",
+        "start_date": "",
+        "end_date": "",
+        "description": "",
+        "achievements": []
+      },
+      {
+        "title": "",
+        "company": "",
+        "start_date": "",
+        "end_date": "",
+        "description": "",
+        "achievements": []
+      }
+    ]
+  },
+  "CAN-5DAC8883": {
+    "candidate_id": "CAN-5DAC8883",
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "email": "jane.smith@example.com",
+    "phone": "555-123-4567",
+    "status": "INTERVIEW_SCHEDULED",
+    "application_date": "2025-11-28",
+    "resume_path": null,
+    "notes": [],
+    "skills": [
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      }
+    ],
+    "education": [
+      {
+        "degree": "",
+        "field": "",
+        "institution": "",
+        "year_completed": 0,
+        "gpa": null
+      }
+    ],
+    "experience": [
+      {
+        "title": "",
+        "company": "",
+        "start_date": "",
+        "end_date": "",
+        "description": "",
+        "achievements": []
+      },
+      {
+        "title": "",
+        "company": "",
+        "start_date": "",
+        "end_date": "",
+        "description": "",
+        "achievements": []
+      }
+    ]
+  },
+  "CAN-C57BA362": {
+    "candidate_id": "CAN-C57BA362",
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "email": "jane.smith@example.com",
+    "phone": "555-123-4567",
+    "status": "INTERVIEW_SCHEDULED",
+    "application_date": "2025-11-28",
+    "resume_path": null,
+    "notes": [],
+    "skills": [
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      },
+      {
+        "name": "",
+        "years_experience": 0,
+        "proficiency": 0
+      }
+    ],
+    "education": [
+      {
+        "degree": "",
+        "field": "",
+        "institution": "",
+        "year_completed": 0,
+        "gpa": null
+      }
+    ],
+    "experience": [
+      {
+        "title": "",
+        "company": "",
+        "start_date": "",
+        "end_date": "",
+        "description": "",
+        "achievements": []
+      },
+      {
+        "title": "",
+        "company": "",
+        "start_date": "",
+        "end_date": "",
+        "description": "",
+        "achievements": []
+      }
+    ]
+  },
+  "CAN-F41C1600": {
+    "candidate_id": "CAN-F41C1600",
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "email": "jane.smith@example.com",
+    "phone": "555-123-4567",
+    "status": "INTERVIEW_SCHEDULED",
+    "application_date": "2025-11-28",
+    "resume_path": null,
+    "notes": [],
+    "skills": [
+      {
+        "name": "Python",
+        "years_experience": 6,
+        "proficiency": 5
+      },
+      {
+        "name": "Django",
+        "years_experience": 4,
+        "proficiency": 5
+      },
+      {
+        "name": "REST APIs",
+        "years_experience": 4,
+        "proficiency": 4
+      },
+      {
+        "name": "AWS",
+        "years_experience": 2,
+        "proficiency": 3
+      },
+      {
+        "name": "JavaScript",
+        "years_experience": 3,
+        "proficiency": 4
+      }
+    ],
+    "education": [
+      {
+        "degree": "BSc",
+        "field": "Computer Science",
+        "institution": "Tech University",
+        "year_completed": 2015,
+        "gpa": 3.8
+      }
+    ],
+    "experience": [
+      {
+        "title": "Senior Software Engineer",
+        "company": "Tech Solutions Inc.",
+        "start_date": "2019-01-01",
+        "end_date": "",
+        "description": "Leading development of web applications...",
+        "achievements": [
+          "Reduced API response time by 40%",
+          "Mentored 3 junior developers"
+        ]
+      },
+      {
+        "title": "Software Engineer",
+        "company": "WebDev Co.",
+        "start_date": "2015-06-01",
+        "end_date": "2018-12-31",
+        "description": "Developed and maintained web applications...",
+        "achievements": [
+          "Implemented CI/CD pipeline reducing deployment time by 60%"
+        ]
+      }
+    ]
+  }
+}
